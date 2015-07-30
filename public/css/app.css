@@ -1,0 +1,65 @@
+nav {
+	height: 60px;
+}
+nav .logo {
+	display: inline-block;
+	padding: 0;
+	margin: 0px 0px 0px 10px;
+	height: 60px;
+}
+nav .logo p {
+	height: 60px;
+}
+nav .number-of-users {
+	display: inline-block;
+	height: 60px;
+	float: right;
+}
+nav .number-of-users p {
+	height: 60px;
+}
+/*nav ul {
+	display: inline-block;
+	float: right;
+	height: 60px;
+}
+nav ul li {
+	display: inline;
+	color: #fff;
+	height: 60px;
+}
+*/
+#map-panel {
+	height: 500px;
+	width: 100%;
+}
+.message-box {
+	width: 100%;
+	height: 60px;
+	position: fixed;
+	bottom: 0;
+}
+#text-box {
+	display: inline-block;
+	padding: 0;
+	margin: 5px 0px 0px 0px;
+
+}
+#submit-button {
+	display: inline-block;
+	padding: 0;
+	height: 40px;
+	width: 80px;
+	margin: 0px 10px 10px 0px;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+#iw-container {
+	min-width: 30px;
+	min-height: 20px;
+	max-width: 80px;
+	max-height: 65px;
+	text-align: center;
+	overflow: visible;
+}
